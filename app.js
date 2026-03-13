@@ -6,7 +6,7 @@ const productos = [
         nombre: "Licras negras",
         precio: 120,
         talla: "S-M-L",
-        imagen: "imagenes/maillot.png",
+        imagen: "maillot.png",
         categoria: "licras"
     },
     {
@@ -14,7 +14,7 @@ const productos = [
         nombre: "Chalecos cortaviento",
         precio: 220,
         talla: "M-L-XL",
-        imagen: "imagenes/hoodie.png",
+        imagen: "hoodie.png",
         categoria: "chalecos"
     },
     {   
@@ -22,7 +22,7 @@ const productos = [
         nombre: "Maillots rojo",
         precio: 180,
         talla: "M-L",
-        imagen: "imagenes/jersey.png", 
+        imagen: "jersey.png", 
         categoria: "maillots"
     },
     {
@@ -30,7 +30,7 @@ const productos = [
         nombre: "Hoodies pro",
         precio: 160,
         talla: "M-L",
-        imagen: "imagenes/maillot.png",
+        imagen: "maillot.png",
         categoria: "hoodies"
     },
  
@@ -39,7 +39,7 @@ const productos = [
         nombre: "Licras blancas", 
         precio: 120,
         talla: "S-M-L",
-        imagen: "imagenes/maillot.png",
+        imagen: "maillot.png",
         categoria: "licras"
     },
 
@@ -48,7 +48,7 @@ const productos = [
         nombre: "Licras azules", 
         precio: 120,
         talla: "S-M-L",
-        imagen: "imagenes/maillot.png",
+        imagen: "maillot.png",
         categoria: "licras"
     },
 
@@ -57,7 +57,7 @@ const productos = [
         nombre: "Chalecos morado",
         precio: 220,
         talla: "M-L-XL",
-        imagen: "imagenes/hoodie.png",
+        imagen: "hoodie.png",
         categoria: "chalecos"
     },
 
@@ -66,7 +66,7 @@ const productos = [
         nombre: "Chalecos verde",
         precio: 220,
         talla: "M-L-XL",
-        imagen: "imagenes/hoodie.png",
+        imagen: "hoodie.png",
         categoria: "chalecos"
     },
     
@@ -75,7 +75,7 @@ const productos = [
         nombre: "Maillots morado",
         precio: 180,
         talla: "M-L",
-        imagen: "imagenes/jersey.png", 
+        imagen: "jersey.png", 
         categoria: "maillots"
     },
 
@@ -84,7 +84,7 @@ const productos = [
         nombre: "Maillots verde",
         precio: 180,
         talla: "M-L",
-        imagen: "imagenes/jersey.png", 
+        imagen: "jersey.png",  
         categoria: "maillots"
     },
 
@@ -93,7 +93,7 @@ const productos = [
         nombre: "Hoodies blanco",
         precio: 160,
         talla: "M-L",
-        imagen: "imagenes/maillot.png",
+        imagen: "maillot.png",
         categoria: "hoodies"
     },
       {
@@ -101,7 +101,7 @@ const productos = [
         nombre: "Hoodies negro",
         precio: 160,
         talla: "M-L",
-        imagen: "imagenes/maillot.png",
+        imagen: "maillot.png",
         categoria: "hoodies"
     },
 ];
@@ -177,5 +177,6 @@ mensaje.style.display = "none";
 },2000);
 
 }
+
 
 actualizarCarrito();
